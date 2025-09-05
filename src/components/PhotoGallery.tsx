@@ -23,12 +23,12 @@ const photos: Photo[] = [
   {
     url: Pic2,
     caption:
-      "👑✨",
+      "",
   },
   {
     url: Pic3,
     caption:
-      "🥂💖",
+      "",
   },
 ];
 
