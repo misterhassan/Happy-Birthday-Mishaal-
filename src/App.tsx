@@ -121,7 +121,7 @@ function App() {
   };
 
   const messages = [
-    "Hey Madam Jii✨ It's your day to shine!",
+    "Today is all about celebrating you",
     "I’ve set up something super vibrant just for you...",
     "Remember, you light up every room you enter!"
   ];
